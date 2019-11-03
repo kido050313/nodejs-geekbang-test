@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-geekbang-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kido050313/nodejs-geekbang-test.git"
+  },
+  "author": "lmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kido050313/nodejs-geekbang-test/issues"
+  },
+  "homepage": "https://github.com/kido050313/nodejs-geekbang-test#readme"
+}
